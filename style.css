@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow&family=Imperial+Script&display=swap");
 
 body {
     background-color: #1b1b1b;
@@ -64,8 +63,8 @@ body {
 #full-name {
     position: absolute;
 
-    font-family: "Aref Ruqaa Ink", serif;
-    font-size: 24px;
+    font-family: "Imperial Script", serif;
+    font-size: 72px;
 
     margin: 0;
 
