@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Rozha+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&display=swap");
 
 body {
     background-color: #1b1b1b;
@@ -64,8 +64,8 @@ body {
 #full-name {
     position: absolute;
 
-    font-family: "Rozha One", serif;
-    font-size: 72px;
+    font-family: "Cinzel", serif;
+    font-size: 56px;
 
     margin: 0;
 
